@@ -13,5 +13,5 @@ Site; başlığa tıklayınca anasayfaya dönme, sayfalar arası ileri-geri geç
 
 ## Nasıl Kullanılır?
 
-1. Proje dosyalarını bilgisayarınıza indirin 
+1. Proje dosyalarını " Html.proje.rar " kısmından  bilgisayarınıza indirin 
 2. `"Çalışma.html"` dosyasını bir web tarayıcısında açın.
